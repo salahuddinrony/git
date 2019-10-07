@@ -8,5 +8,9 @@
 
     // Make a SUbstruction with two variables
     $substructionRes = $num1 - $num2;
+    $addRes = $num1 + $num2;
+
+// Make a Multiplication with two variables
+$multiplicationRes = $num1 * $num2;
 
 ?>

@@ -6,4 +6,7 @@
     // Make a Summession with two variables
     $addRes = $num1 + $num2;
 
+    // Make a Substruction with two variables
+    $substructRes = $num1 - $num2;
+
 ?>
